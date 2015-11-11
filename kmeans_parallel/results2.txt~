@@ -1,0 +1,6 @@
+oversampling factor is 2
+ dunn_index = 0.0 davies = 0.0 number of clusters = 1
+ dunn_index = 0.0765063348397 davies = 0.208584482325 number of clusters = 2
+ dunn_index = 0.0505302190544 davies = 0.600999427972 number of clusters = 3
+ dunn_index = 0.0735153943361 davies = 0.517379456057 number of clusters = 4
+ dunn_index = 0.0470880295964 davies = 0.578473478971 number of clusters = 5
